@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ikram!
+# Hi, I'm Ikram!
 
 💻 **Web Developer | Full Stack Enthusiast**
 
