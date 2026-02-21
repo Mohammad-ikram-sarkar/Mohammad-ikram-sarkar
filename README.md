@@ -11,10 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&lines=Full+Stack+Web+Developer;React+%26+Tailwind+Enthusiast;Node.js+%26+Express+Developer;Building+Modern+Web+Apps" />
 </p>
 
----
-
-
-
 
 
 ## 🌱 Currently Learning
